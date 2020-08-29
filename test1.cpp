@@ -3,4 +3,5 @@
 
 int main(){
 	cout<<"HelloWorld"<<endl;
+	cout<<"Hello2"<<endl<<endl;
 }
